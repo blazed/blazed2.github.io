@@ -3,7 +3,7 @@
   <title><![CDATA[blazed's tech blog]]></title>
   <link href="http://darkstar.se/atom.xml" rel="self"/>
   <link href="http://darkstar.se"/>
-  <updated>2013-12-07T04:16:05.661Z</updated>
+  <updated>2013-12-07T04:16:51.690Z</updated>
   <id>http://darkstar.se/</id>
   <author>
     <name><![CDATA[blazed]]></name>
@@ -327,8 +327,8 @@ Change domain name? [Yes]
 
 <p>Login with admin@<strong><em>domain.com</em></strong> and your password<br>Create a new account and when you&#39;re done, try to access it via <a href="https://10.32.0.35/" target="_blank">https://10.32.0.35/</a> send an email to your external email account.</p>
 ]]></content>
-    <category scheme="http://darkstar.se/tags/Zimbra/" term="Zimbra"/>
-    <category scheme="http://darkstar.se/tags/CentOS/" term="CentOS"/>
-    <category scheme="http://darkstar.se/tags/Proxmox/" term="Proxmox"/>
+    <category scheme="http://darkstar.se/tag/Zimbra/" term="Zimbra"/>
+    <category scheme="http://darkstar.se/tag/CentOS/" term="CentOS"/>
+    <category scheme="http://darkstar.se/tag/Proxmox/" term="Proxmox"/>
   </entry>
 </feed>
